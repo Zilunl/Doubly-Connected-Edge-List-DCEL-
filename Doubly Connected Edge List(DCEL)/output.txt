@@ -1,0 +1,16 @@
+0
+Watchtower ID: WT3106HTUYW, Postcode:  3106, Watchtower ID: 2374, Watchtower ID: David Bryan, Watchtower ID: 145.1449396, Watchtower ID: -37.74550313
+Watchtower ID: WT3151ANFQX, Postcode:  3151, Watchtower ID: 3424, Watchtower ID: Daniel Davis, Watchtower ID: 145.1663213, Watchtower ID: -37.84908720
+Watchtower ID: WT3953SGAEI, Postcode:  3953, Watchtower ID: 1571, Watchtower ID: Ofelia Kadlec, Watchtower ID: 145.7780017, Watchtower ID: -38.55984015
+Watchtower ID: WT3765SHSPB, Postcode:  3765, Watchtower ID: 3380, Watchtower ID: Eilene Horner, Watchtower ID: 145.3620138, Watchtower ID: -37.81894303
+Watchtower ID: WT3227LRSVA, Postcode:  3227, Watchtower ID: 4819, Watchtower ID: Joan Cox, Watchtower ID: 144.3883730, Watchtower ID: -38.22664849
+Watchtower ID: WT3370XRAHI, Postcode:  3370, Watchtower ID: 356, Watchtower ID: Tammy Compton, Watchtower ID: 143.7605052, Watchtower ID: -37.17889378
+Watchtower ID: WT3779NULEK, Postcode:  3779, Watchtower ID: 197, Watchtower ID: Aida Kuhnle, Watchtower ID: 146.1108089, Watchtower ID: -37.67951918
+1
+2
+Watchtower ID: WT3525YPKBW, Postcode:  3525, Watchtower ID: 433, Watchtower ID: Denise Roberts, Watchtower ID: 143.3209073, Watchtower ID: -36.14524876
+Watchtower ID: WT3701KWYIQ, Postcode:  3701, Watchtower ID: 269, Watchtower ID: Martha Moore, Watchtower ID: 147.3930296, Watchtower ID: -36.25489416
+Watchtower ID: WT3530RJWDT, Postcode:  3530, Watchtower ID: 63, Watchtower ID: Troy Clark, Watchtower ID: 143.0834668, Watchtower ID: -35.79299395
+Face 0 population served: 16121
+Face 1 population served: 0
+Face 2 population served: 765
